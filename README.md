@@ -1,1 +1,1 @@
-# https-github.com-WuYou-imm-Interpretable-cytotoxicity-prediction-model
+Establishment of interpretable cytotoxicity prediction models using machine learning analysis of transcriptome features
